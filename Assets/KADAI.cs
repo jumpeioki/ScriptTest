@@ -15,9 +15,9 @@ public class KADAI : MonoBehaviour {
 		}
 		for (int i = 4; i > -1; i--)
 		{
-		Debug.Log (array [i]);
-	}
-}
+		    Debug.Log (array [i]);
+	    }
+    }
 		
 	// Update is called once per frame
 	void Update () {
